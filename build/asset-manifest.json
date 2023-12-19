@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/LingaShashank/StartUp/static/css/main.6ec7f853.css",
+    "main.js": "/LingaShashank/StartUp/static/js/main.a5ceb16c.js",
+    "static/js/787.0edb388a.chunk.js": "/LingaShashank/StartUp/static/js/787.0edb388a.chunk.js",
+    "index.html": "/LingaShashank/StartUp/index.html",
+    "main.6ec7f853.css.map": "/LingaShashank/StartUp/static/css/main.6ec7f853.css.map",
+    "main.a5ceb16c.js.map": "/LingaShashank/StartUp/static/js/main.a5ceb16c.js.map",
+    "787.0edb388a.chunk.js.map": "/LingaShashank/StartUp/static/js/787.0edb388a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6ec7f853.css",
+    "static/js/main.a5ceb16c.js"
+  ]
+}
